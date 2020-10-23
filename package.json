@@ -1,0 +1,26 @@
+{
+  "name": "auditbox-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/auditbox/auditbox-js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/auditbox/auditbox-js/issues"
+  },
+  "homepage": "https://github.com/auditbox/auditbox-js#readme",
+  "dependencies": {
+    "axios": "^0.20.0"
+  },
+  "devDependencies": {
+    "jest": "^26.6.0"
+  }
+}
